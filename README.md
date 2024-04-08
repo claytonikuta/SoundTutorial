@@ -1,7 +1,3 @@
-
-
-[YouTube Video - WRwOT70VpCI](https://www.youtube.com/watch?v=WRwOT70VpCI)(YouTube video for future review).
-
 ### Step 1: Create a New Kotlin Project
 Create a new empty activity. Name it SoundTutorial (if you name it something else change the SoundTutorialTheme to (your chosen name)Theme.
 
