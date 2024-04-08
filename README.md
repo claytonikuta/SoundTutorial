@@ -1,3 +1,5 @@
+This is a quick tutorial on how to add sounds to a Kotlin project.
+
 ### Step 1: Create a New Kotlin Project
 Create a new empty activity. Name it SoundTutorial (if you name it something else change the SoundTutorialTheme to (your chosen name)Theme.
 
